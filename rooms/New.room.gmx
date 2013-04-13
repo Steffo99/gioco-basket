@@ -3,7 +3,7 @@
   <caption>L. 1 - Empty</caption>
   <width>640</width>
   <height>480</height>
-  <vsnap>1</vsnap>
+  <vsnap>32</vsnap>
   <hsnap>32</hsnap>
   <isometric>0</isometric>
   <speed>40</speed>
@@ -61,6 +61,12 @@
     <instance objName="solidBlock" x="288" y="384" name="inst_89A33C08" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="solidBlock" x="256" y="352" name="inst_30D0251C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="solidBlock" x="224" y="320" name="inst_BB93EEE5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="solidBlock" x="192" y="320" name="inst_4A336742" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="solidBlock" x="160" y="320" name="inst_702ED9A9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="solidBlock" x="96" y="320" name="inst_91FB4246" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="solidBlock" x="128" y="320" name="inst_74ECB182" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="solidBlock" x="64" y="320" name="inst_6D1F5AC6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="solidBlock" x="32" y="320" name="inst_AFE60C21" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

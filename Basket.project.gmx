@@ -27,6 +27,7 @@
       <sprite>sprites\spr_lenza</sprite>
       <sprite>sprites\spr_lenzabig</sprite>
       <sprite>sprites\spr_play</sprite>
+      <sprite>sprites\spr_bar</sprite>
     </sprites>
     <sprite>sprites\menu</sprite>
   </sprites>
@@ -40,6 +41,7 @@
       <object>objects\floorParent</object>
       <object>objects\vFloor</object>
       <object>objects\hFloor</object>
+      <object>objects\floorbar</object>
       <object>objects\bllBlock</object>
       <object>objects\solidBlock</object>
       <object>objects\diag</object>
@@ -64,10 +66,12 @@
   <rooms name="rooms">
     <room>rooms\Menu</room>
     <room>rooms\Empty</room>
-    <room>rooms\New</room>
     <room>rooms\Lenza</room>
     <room>rooms\LenzaDue</room>
     <room>rooms\Block</room>
+    <room>rooms\New</room>
+    <room>rooms\BlockMix</room>
+    <room>rooms\Low</room>
     <room>rooms\LenzaBoss</room>
     <room>rooms\Credits</room>
   </rooms>
