@@ -51,6 +51,7 @@
         <object>objects\Canestro</object>
         <object>objects\FerroU</object>
         <object>objects\FerroD</object>
+        <object>objects\canestrofordummies</object>
       </objects>
       <object>objects\fuocoDArtificio</object>
       <object>objects\Play</object>
@@ -59,6 +60,7 @@
   <rooms name="rooms">
     <room>rooms\Menu</room>
     <room>rooms\Empty</room>
+    <room>rooms\New</room>
     <room>rooms\Lenza</room>
     <room>rooms\LenzaDue</room>
     <room>rooms\Block</room>
