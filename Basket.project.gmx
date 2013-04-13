@@ -28,6 +28,7 @@
       <sprite>sprites\spr_lenzabig</sprite>
       <sprite>sprites\spr_play</sprite>
     </sprites>
+    <sprite>sprites\menu</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\Wood</background>
@@ -35,9 +36,7 @@
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
-    <object>objects\manager</object>
-    <objects name="Items">
-      <object>objects\Ball</object>
+    <objects name="LevelItems">
       <object>objects\floorParent</object>
       <object>objects\vFloor</object>
       <object>objects\hFloor</object>
@@ -47,7 +46,7 @@
       <object>objects\player</object>
       <object>objects\ilLenza</object>
       <object>objects\gigaLenza</object>
-      <objects name="Canestro">
+      <objects name="canestr">
         <object>objects\Canestro</object>
         <object>objects\FerroU</object>
         <object>objects\FerroD</object>
@@ -55,6 +54,11 @@
       </objects>
       <object>objects\fuocoDArtificio</object>
       <object>objects\Play</object>
+    </objects>
+    <objects name="Internal">
+      <object>objects\manager</object>
+      <object>objects\menubutton</object>
+      <object>objects\Ball</object>
     </objects>
   </objects>
   <rooms name="rooms">

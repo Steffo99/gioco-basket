@@ -3,8 +3,8 @@
   <caption>L0 - Menu</caption>
   <width>640</width>
   <height>480</height>
-  <vsnap>32</vsnap>
-  <hsnap>32</hsnap>
+  <vsnap>16</vsnap>
+  <hsnap>16</hsnap>
   <isometric>0</isometric>
   <speed>40</speed>
   <persistent>0</persistent>
@@ -52,6 +52,7 @@
   <instances>
     <instance objName="manager" x="0" y="0" name="inst_0B9D9010" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Play" x="224" y="352" name="inst_5BBDA06B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="menubutton" x="624" y="464" name="inst_C2242C69" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
