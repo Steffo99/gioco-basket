@@ -30,6 +30,7 @@
     <sprite>sprites\menu</sprite>
     <sprite>sprites\spr_lele</sprite>
     <sprite>sprites\spr_lelen</sprite>
+    <sprite>sprites\token</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\Wood</background>
@@ -56,6 +57,8 @@
       </objects>
       <object>objects\fuocoDArtificio</object>
       <object>objects\Play</object>
+      <object>objects\floatCoin</object>
+      <object>objects\fallCoin</object>
     </objects>
     <objects name="Internal">
       <object>objects\manager</object>
@@ -79,6 +82,7 @@
     <room>rooms\Low</room>
     <room>rooms\LenzaBoss</room>
     <room>rooms\Credits</room>
+    <room>rooms\Sandbox</room>
     <room>rooms\SelezP</room>
   </rooms>
   <constants number="3">
