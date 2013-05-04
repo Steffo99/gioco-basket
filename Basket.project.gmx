@@ -31,12 +31,16 @@
     <sprite>sprites\spr_lele</sprite>
     <sprite>sprites\spr_lelen</sprite>
     <sprite>sprites\token</sprite>
+    <sprite>sprites\bigliettino</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\Wood</background>
     <background>background\Title</background>
   </backgrounds>
   <paths name="paths"/>
+  <fonts name="fonts">
+    <font>fonts\prezzo</font>
+  </fonts>
   <objects name="objects">
     <objects name="LevelItems">
       <object>objects\floorParent</object>
