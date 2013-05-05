@@ -58,6 +58,7 @@
     <instance objName="player" x="512" y="864" name="inst_F45A91F4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="canestrofordummies" x="64" y="544" name="inst_67BC0940" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="menubutton" x="624" y="976" name="inst_BAD31648" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="shopbutton" x="608" y="976" name="inst_F2642B87" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
