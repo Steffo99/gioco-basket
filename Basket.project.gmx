@@ -37,6 +37,7 @@
   <backgrounds name="background">
     <background>background\Wood</background>
     <background>background\Title</background>
+    <background>background\randomtile</background>
   </backgrounds>
   <paths name="paths"/>
   <fonts name="fonts">
@@ -64,11 +65,11 @@
       <object>objects\Play</object>
       <object>objects\floatCoin</object>
       <object>objects\fallCoin</object>
+      <object>objects\menubutton</object>
+      <object>objects\shopbutton</object>
     </objects>
     <objects name="Internal">
       <object>objects\manager</object>
-      <object>objects\menubutton</object>
-      <object>objects\shopbutton</object>
       <object>objects\Ball</object>
     </objects>
     <objects name="Shop">

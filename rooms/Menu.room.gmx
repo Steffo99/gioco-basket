@@ -54,7 +54,6 @@
     <instance objName="Play" x="224" y="352" name="inst_5BBDA06B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="menubutton" x="624" y="464" name="inst_C2242C69" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="shopbutton" x="608" y="464" name="inst_F4CA395A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moneydisp" x="0" y="464" name="inst_89DB2FB7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
