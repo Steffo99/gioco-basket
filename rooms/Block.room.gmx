@@ -3,8 +3,8 @@
   <caption>L. 4 - Blocchi</caption>
   <width>640</width>
   <height>480</height>
-  <vsnap>32</vsnap>
-  <hsnap>32</hsnap>
+  <vsnap>16</vsnap>
+  <hsnap>16</hsnap>
   <isometric>0</isometric>
   <speed>40</speed>
   <persistent>0</persistent>
@@ -57,7 +57,27 @@
     <instance objName="FerroD" x="96" y="223" name="inst_227D9F05" locked="-1" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="manager" x="0" y="0" name="inst_5A63A6B4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="player" x="512" y="352" name="inst_5AADD66B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bllBlock" x="416" y="416" name="inst_CF3C6521" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floatCoin" x="192" y="96" name="inst_DC410D9E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floatCoin" x="160" y="96" name="inst_46F88162" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floatCoin" x="128" y="96" name="inst_17750E9C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floatCoin" x="128" y="128" name="inst_9F91106F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floatCoin" x="128" y="160" name="inst_413460A3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floatCoin" x="160" y="160" name="inst_FA0D25DD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floatCoin" x="192" y="160" name="inst_27C1656A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floatCoin" x="192" y="192" name="inst_FDE867B8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floatCoin" x="192" y="224" name="inst_F0A425BF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floatCoin" x="160" y="224" name="inst_30A46DF9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floatCoin" x="128" y="224" name="inst_0AEF918B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floatCoin" x="144" y="224" name="inst_F1F3D573" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floatCoin" x="176" y="224" name="inst_C23546B4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floatCoin" x="192" y="208" name="inst_72249AB6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floatCoin" x="192" y="176" name="inst_A5482BE4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floatCoin" x="176" y="160" name="inst_0348389C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floatCoin" x="144" y="160" name="inst_B624267C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floatCoin" x="128" y="144" name="inst_D8E3BDD3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floatCoin" x="128" y="112" name="inst_826D3CF3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floatCoin" x="144" y="96" name="inst_ABFA75D6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floatCoin" x="176" y="96" name="inst_B788E333" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="bllBlock" x="416" y="384" name="inst_E1752516" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="bllBlock" x="416" y="352" name="inst_D0D5EF67" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="bllBlock" x="416" y="288" name="inst_68D9AC18" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -70,6 +90,7 @@
     <instance objName="bllBlock" x="416" y="96" name="inst_E1B70974" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="bllBlock" x="416" y="64" name="inst_292683FF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="bllBlock" x="416" y="32" name="inst_B5D4D3E6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="bllBlock" x="416" y="416" name="inst_F0C9A929" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

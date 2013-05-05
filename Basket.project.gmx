@@ -28,6 +28,7 @@
     <sprite>sprites\spr_ste</sprite>
     <sprite>sprites\spr_bebo</sprite>
     <sprite>sprites\menu</sprite>
+    <sprite>sprites\shop</sprite>
     <sprite>sprites\spr_lele</sprite>
     <sprite>sprites\spr_lelen</sprite>
     <sprite>sprites\token</sprite>
@@ -67,12 +68,14 @@
     <objects name="Internal">
       <object>objects\manager</object>
       <object>objects\menubutton</object>
+      <object>objects\shopbutton</object>
       <object>objects\Ball</object>
     </objects>
     <objects name="Shop">
       <object>objects\Bebo</object>
       <object>objects\Ste</object>
       <object>objects\Lele</object>
+      <object>objects\moneydisp</object>
     </objects>
   </objects>
   <rooms name="rooms">
