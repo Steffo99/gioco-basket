@@ -35,6 +35,8 @@
     <sprite>sprites\greenredtoken</sprite>
     <sprite>sprites\bigliettino</sprite>
     <sprite>sprites\rosso</sprite>
+    <sprite>sprites\mstoria</sprite>
+    <sprite>sprites\negozio</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\Wood</background>
@@ -64,11 +66,11 @@
         <object>objects\canestrofordummies</object>
       </objects>
       <object>objects\fuocoDArtificio</object>
-      <object>objects\Play</object>
       <object>objects\floatCoin</object>
       <object>objects\fallCoin</object>
       <object>objects\menubutton</object>
-      <object>objects\shopbutton</object>
+      <object>objects\mstoriamenu</object>
+      <object>objects\negoziomenu</object>
     </objects>
     <objects name="Internal">
       <object>objects\manager</object>
