@@ -32,6 +32,7 @@
     <sprite>sprites\spr_lele</sprite>
     <sprite>sprites\spr_lelen</sprite>
     <sprite>sprites\token</sprite>
+    <sprite>sprites\greenredtoken</sprite>
     <sprite>sprites\bigliettino</sprite>
     <sprite>sprites\rosso</sprite>
   </sprites>
