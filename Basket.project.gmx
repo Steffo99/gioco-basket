@@ -44,6 +44,10 @@
     <background>background\randomtile</background>
   </backgrounds>
   <paths name="paths"/>
+  <scripts name="scripts">
+    <script>scripts\save_money.gml</script>
+    <script>scripts\load_money.gml</script>
+  </scripts>
   <fonts name="fonts">
     <font>fonts\prezzo</font>
   </fonts>
