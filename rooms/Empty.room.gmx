@@ -57,20 +57,6 @@
     <instance objName="FerroD" x="96" y="223" name="inst_DBDE5ABA" locked="-1" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="player" x="544" y="352" name="inst_E306CC36" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="solidBlock" x="352" y="416" name="inst_888EA922" locked="0" code="" scaleX="0" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="floatCoin" x="480" y="384" name="inst_2347FB46" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="floatCoin" x="416" y="384" name="inst_9ECE64C9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="floatCoin" x="352" y="384" name="inst_EAEB23F6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="floatCoin" x="288" y="384" name="inst_3AB1418C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="floatCoin" x="224" y="384" name="inst_052A9446" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="floatCoin" x="160" y="384" name="inst_CF8E403C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="floatCoin" x="96" y="384" name="inst_43D340BE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="floatCoin" x="96" y="192" name="inst_34D1D7EC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="floatCoin" x="160" y="192" name="inst_CDB18FF0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="floatCoin" x="224" y="192" name="inst_CD641E4F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="floatCoin" x="288" y="192" name="inst_71696E4E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="floatCoin" x="352" y="192" name="inst_103F63A1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="floatCoin" x="416" y="192" name="inst_1231E450" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="floatCoin" x="480" y="192" name="inst_0B7986B6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
