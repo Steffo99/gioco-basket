@@ -275,7 +275,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>"Siiiiiii... ##### a tutta birra!"</string>
+            <string>"Siiiiiii... Oggetti a tutta birra!"</string>
           </argument>
         </arguments>
       </action>
@@ -431,7 +431,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>"Avranno pane per i loro denti con queste cose!"</string>
+            <string>"Avranno pane per i loro denti la prossima volta!"</string>
           </argument>
         </arguments>
       </action>
