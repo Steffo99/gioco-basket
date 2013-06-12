@@ -37,6 +37,8 @@
     <sprite>sprites\rosso</sprite>
     <sprite>sprites\mstoria</sprite>
     <sprite>sprites\negozio</sprite>
+    <sprite>sprites\pixel</sprite>
+    <sprite>sprites\p_pixel</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\Wood</background>
@@ -84,6 +86,7 @@
     </objects>
     <objects name="Shop">
       <object>objects\Bebo</object>
+      <object>objects\pixball</object>
       <object>objects\Ste</object>
       <object>objects\Lele</object>
       <object>objects\moneydisp</object>
